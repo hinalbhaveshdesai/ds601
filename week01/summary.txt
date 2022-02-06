@@ -1,0 +1,8 @@
+Summary of the article:
+Data Science involves the collection, management, processing, analysis, visualization, and interpretation of vast amounts of heterogeneous data associated with a diverse array of scientific, translational, and inter-disciplinary applications.
+There is a vast difference between Data Science and statistics.
+“Statistics” means the practice or science of collecting and analyzing numerical data in large quantities whereas "Data Science" means to liberate and create meaning out of the raw data using scientific methods. Hence  statistics is a part of what goes on in data science but not a very big part.
+To be a good data scientist, along with statistical knowledge, one needs to have a mix of computing and database skills.
+A successful data scientist needs to be able to become one with the data by exploring it and applying rigorous statistical analysis.But good data scientists also understand what it takes to deploy production systems, and are ready to get their hands dirty by writing code that cleans up the data or performs core system functionality.
+Data analysis is a very difficult field. It must adapt itself to what people can and need to do with data.Data analysis can gain much from formal statistics, but only if the connection is kept adequately loose.
+Data analysis is not only a scientific field, it is as complex as any major field of science! And theoretical statistics can only play a partial role in its progress.
