@@ -1,0 +1,6 @@
+Lab is missing!
+Well done with homework! 
+However, while finding the means, the question was to repeat the function multiple times to generate graph for multiple trials. 
+
+lab: 0
+hw: 75
